@@ -3,3 +3,6 @@ This website example is coded by Hacı Mert Gökhan (Mixeration). Please do not 
 
 # About:
 I will add new features to the website day by day. I don't know exactly when I will finish. A very simple example and a good value for beginners.
+
+# For questions and support:
+You can contact via addresses: mixeration#5118 || mixeration@gmail.com
