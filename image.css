@@ -86,6 +86,23 @@
   to {opacity: 1}
 }
 
-.colorized-green {
+.colorized-green-title {
     color: green;
+    font-size: 25px;
+    font-family: Consolas;
+}
+
+.colorized-green-text {
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  font-family: Consolas;
+}
+
+.colorized-green{
+  color: green;
+}
+
+.colorized-green-padding {
+  color: green;
+  padding-top: -100px;
 }

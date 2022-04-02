@@ -3,7 +3,9 @@
   }
 
   .column-1 {
-    padding: 380px;
+    padding-left: 380px;
+    padding-top: 75px;
+    padding-right: 450px;
     background-color: #ffffff;
     text-align: left;
     color: rgb(31, 30, 30);
@@ -30,6 +32,17 @@
     size: 25%;
   }
 
+  .column-3 {
+    padding-right: 500px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #ffffff;
+    text-align: left;
+    color: rgb(31, 30, 30);
+    font-family: Tahoma;
+    font-size: 16px;
+  }
+
   .left {
     float: left;
     padding-left:620px;
@@ -52,10 +65,6 @@
 
   .image img {
     transform: rotate(270deg);
-    -ms-transform: rotate(270deg);
-    -moz-transform: rotate(270deg);
-    -webkit-transform: rotate(270deg);
-    -o-transform: rotate(270deg);
   }
 
   .photo {
@@ -63,6 +72,17 @@
     padding-left:620px;
     padding-right: 70px;
     height: 250;   
+  }
+
+  .navbar-footer {
+    background-color: rgb(255, 255, 255);
+    overflow: visible;
+    position: sticky;
+    float: center;
+    padding-left: 620px;
+    bottom: 0;
+    font-family: Consolas;
+    width: 100%;
   }
 
   /* Place the navbar at the bottom of the page, and make it stick */
@@ -132,6 +152,9 @@ ul.timeline > li:before {
 
 .loc {
   font-family: Arial, Helvetica, sans-serif;
-  float: center;
-  padding: 380px;
+  padding-left: 380px;
+  padding-bottom: 150px;
+}
+.loc2{
+  padding-left: 550px;
 }
