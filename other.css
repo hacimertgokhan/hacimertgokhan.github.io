@@ -142,14 +142,14 @@
 
 /* Change the color of links on hover */
 .navbar a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 255, 255);
 }
 
 /* Add a color to the active/current link */
 .navbar a.active {
-  background-color: #000000;
-  color: white;
+  background-color: #1ecf59;
+  color: rgb(255, 255, 255);
 }
 
 ul.timeline {
