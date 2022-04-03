@@ -4,13 +4,39 @@
 
   .column-1 {
     padding-left: 380px;
-    padding-top: 75px;
+    padding-top: 45px;
     padding-right: 450px;
     background-color: #ffffff;
     text-align: left;
     color: rgb(31, 30, 30);
     font-family: Tahoma;
     font-size: 16px;
+  }
+
+  .column-type-1 {
+    padding-left: 450px;
+    padding-top: 0px;
+    padding-right: 450px;
+    background-color: #ffffff;
+    text-align: left;
+    color: rgb(31, 30, 30);
+    font-family: Tahoma;
+    font-size: 16px;
+    margin-top: -230px;
+    margin-bottom: -50px;
+  }
+
+  .column-type-2 {
+    padding-left: 450px;
+    padding-bottom: 20px;
+    padding-top: 0px;
+    padding-right: 450px;
+    background-color: #ffffff;
+    text-align: left;
+    color: rgb(31, 30, 30);
+    font-family: Tahoma;
+    font-size: 16px;
+    margin-top: -300px;
   }
 
   .column-2 {
@@ -68,16 +94,23 @@
   }
 
   .photo {
-    width: 250px;  
     padding-left:620px;
     padding-right: 70px;
-    height: 250;   
   }
 
   .navbar-footer {
     background-color: rgb(255, 255, 255);
     overflow: visible;
     position: sticky;
+    float: center;
+    padding-left: 620px;
+    bottom: 0;
+    font-family: Consolas;
+    width: 100%;
+  }
+
+  .navbar-footer-about {
+    background-color: rgb(255, 255, 255);
     float: center;
     padding-left: 620px;
     bottom: 0;

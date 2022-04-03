@@ -106,3 +106,21 @@
   color: green;
   padding-top: -100px;
 }
+
+.wphoto-2 {
+  padding-left: 738px;
+}
+
+.wphoto {
+  padding-top: 80px;
+  padding-left: 380px;
+  padding-bottom: 60px;
+}
+
+.circular--square img {
+   border-top-left-radius: 50% 50%; 
+   border-top-right-radius: 50% 50%; 
+   border-bottom-right-radius: 50% 50%; 
+   border-bottom-left-radius: 50% 50%; 
+   margin-left: 50px;
+  }
