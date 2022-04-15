@@ -1,0 +1,21 @@
+.txt-title {
+    font-family: CONSOLAS;
+    color: white;
+    margin-left: 40px;
+}
+.txt-title2 {
+    font-family: CONSOLAS;
+    color: white;
+    font-size: 20px;
+}
+.txt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-left: 18px;
+}
+.txt2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: rgb(0, 0, 0);
+    margin-left: 18px;
+}

@@ -128,8 +128,27 @@
   width: 100%;
 }
 
+.navbar2 {
+  background-color: rgb(0, 0, 0);
+  overflow: visible;
+  position: sticky;
+  bottom: 0;
+  font-family: Consolas;
+  width: 100%;
+}
+
 /* Style the links inside the navigation bar */
 .navbar a {
+  float: center;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+.navbar2 a {
   float: center;
   display: block;
   color: #f2f2f2;
@@ -145,11 +164,19 @@
   background-color: rgb(255, 255, 255);
   color: rgb(255, 255, 255);
 }
+.navbar2 a:hover {
+  background-color: rgb(1, 231, 116);
+  color: rgb(0, 0, 0);
+}
 
 /* Add a color to the active/current link */
 .navbar a.active {
   background-color: #1ecf59;
   color: rgb(255, 255, 255);
+}
+.navbar2 a.active {
+  background-color: #36ec73;
+  color: rgb(94, 255, 0);
 }
 
 ul.timeline {
