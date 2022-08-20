@@ -8,10 +8,5 @@ I will add new features to the website day by day. I don't know exactly when I w
 
 https://mixeration.github.io/index.html
 
-# Photos | Ver 0.0.2
-![capture_20220402184712298](https://user-images.githubusercontent.com/64479768/161391598-725e0bd4-c8ac-4e50-9d1c-ea955a085c3c.png)
-
-![capture_20220402184723415](https://user-images.githubusercontent.com/64479768/161391599-f2c59474-19b4-4fa1-978f-fd2534ae8490.png)
-
 # For questions and support:
 You can contact via addresses: mixeration#5118 || mixeration@gmail.com
