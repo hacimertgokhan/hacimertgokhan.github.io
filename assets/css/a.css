@@ -41,7 +41,7 @@ html {
     width: 48%;
     border-radius: 50px 0px 0px 0px;
     height: 500px;
-    transform: translate(3.2%, 25%);
+    transform: translate(0%, 25%);
 }
 
 .about-me .left h1 {
