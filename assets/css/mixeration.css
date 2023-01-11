@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.dom/css?family=Roboto:400,500,300,700');
+@import url('https://fonts.googleapis.dom/css?family=Raleway');
+
+* {
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    background: url("https://i.pinimg.com/236x/6e/a6/08/6ea60804d1e0762411b33663e88b74c8.jpg") center;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+html {
+    background-color: #fafafa;
+    color: white;
+    overflow-x: hidden;
+}
+
+.menu {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    top: 0%;
+    min-width: 50%;
+    background: none;
+    color: white;
+    padding: 50px;
+}
+
+.menu p {
+    font-family: "MuseoModerno Thin";
+    font-size: 30px;
+    background: none;
+    max-width: 30%;
+    position: absolute;
+    min-width: 30%;
+    float: left;
+    left: 15%;
+    top: 50%;
+    color: white;
+}
+
+.menu ul {
+    min-width: 30%;
+    background: none;
+    max-width: 100%;
+    position: absolute;
+    float: right;
+    right: 10%;
+    top: 50%;
+    display: inline-flex;
+}
+
+.menu li {
+    background: none;
+    min-width: 30%;
+    list-style: none;
+    font-family: "MuseoModerno Thin";
+    font-size: 20px;
+    padding: 0px 30px 0px 30px;
+}
+
+.menu a {
+    text-decoration: none;
+    background: none;
+    min-width: 30%;
+    text-shadow: white 0px 0px 10px;
+    color: white;
+}
+
+.menu a:hover {
+    text-decoration: none;
+    background: none;
+    min-width: 30%;
+    transition: text-shadow .3s;
+    text-shadow: white 0px 0px 50px;
+    color: #ffffff;
+}
+
+
+.button a {
+    text-decoration: none;
+    min-width: 30%;
+    color: white;
+    opacity: 0.7;
+    padding: 5px 20px 5px 20px;
+    background: none;
+    border-radius: 4px;
+    box-shadow: 0 0 5px white;
+    text-shadow: 0 0 5px white;
+    transition: box-shadow .3s;
+}
+
+.button a:hover {
+    text-decoration: none;
+    background: none;
+    min-width: 30%;
+    transition: box-shadow .6s;
+    color: #ffffff;
+    opacity: 1;
+    box-shadow: 0 0 5px #ffffff;
+    text-shadow: 0 0 5px #ffffff;
+}
+
+.a p{
+    font-size: 17px;
+    text-align: left;
+    background: none;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    min-width: 30%;
+    max-width: 50%;
+    font-family: "MuseoModerno Thin";
+    color: white;
+    margin: 50px 0px 50px 0px;
+}
+
+.a h1{
+    position: absolute;
+    top: 20%;
+    min-width: 30%;
+    left: 0%;
+    text-align: center;
+    width: 50%;
+    font-family: "MuseoModerno Thin";
+    background: none;
+    color: white;
+    right: 0px;
+    margin: 50px 0px 0px 0px;
+}
+
+.career {
+    float: left;
+    left: 20%;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    right: 55%;
+    min-width: 30%;
+    background: none;
+    top: 45%;
+    padding: 50px;
+    position: absolute;
+}
+
+.right-image {
+    position: absolute;
+    float: right;
+    top: 65%;
+    width: 40%;
+    right: 10%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.career h1 {
+    transform: translateY(-20%);
+    min-width: 30%;
+    background: none;
+    text-align: center;
+}
+
+.career p {
+    margin-left: 70px;
+    min-width: 40%;
+    width: 85%;
+    background: none;
+
+}
+
+footer {
+    width: 100%;
+    background: none;
+}
+
+footer ul {
+    top: 120%;
+    position: absolute;
+    list-style: none;
+    float: left;
+    background: none;
+    display: flex;
+    left: 30%;
+    right: 30%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+footer li {
+    background: none;
+    margin-left: 50px;
+}
+
+ footer a {
+     color: white;
+     background: none;
+     text-decoration: none;
+ }
+
+footer a:hover {
+    text-shadow: 0 0 5px white;
+
+    transition: text-shadow .3s;
+}
